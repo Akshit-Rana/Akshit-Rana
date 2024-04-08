@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://x.com/AkshitR65952628?t=WqLiNaINhFlB2cW1ovCN4w&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AkshitR65952628" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akshit-rana-37a557209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshit rana" height="30" width="40" /></a>
-<a href="https://leetcode.com/OldMonk0001/" target="blank"><img align="center" src="https://icons8.com/icon/9L16NypUzu38/level-up-your-coding-skills-and-quickly-land-a-job" alt="leetcode" height="30" width="40" /></a>
+<a href="https://leetcode.com/OldMonk0001/" target="blank"><img align="center" src="https://www.bing.com/images/search?view=detailV2&ccid=L2Jfuatq&id=B02581AB16444E6779DD164C3FAD414F900E16F8&thid=OIP.L2Jfuatqty2XAIUqYnr_pgHaHa&mediaurl=https%3a%2f%2fcdn.iconscout.com%2ficon%2ffree%2fpng-512%2fleetcode-3628885-3030025.png&exph=512&expw=512&q=leetcode+svg+link&simid=608022453317550460&FORM=IRPRST&ck=3013623A28BF4F5FC76B5FB1B9F5A809&selectedIndex=3&itb=1&ajaxhist=0&ajaxserp=0" alt="leetcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
